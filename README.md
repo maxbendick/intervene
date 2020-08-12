@@ -3,6 +3,7 @@
 
 ![npm version](https://img.shields.io/npm/v/intervene)
 
+:warning: No guarantee that this fork works. Please see the [original repo](https://github.com/soundcloud/intervene)
 
 # Intervene
 
